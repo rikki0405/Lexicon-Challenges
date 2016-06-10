@@ -7,8 +7,13 @@ This Repository will host my code solutions to the above list.
 
 Language: C++
 
-Text
+
+Text Challenges
+
 01 - Reverse a String
+
 02 - Pig Latin
+
 03 - Count Vowels
+
 04 - Check if Palindrome
